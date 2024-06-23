@@ -1,0 +1,10 @@
+Django rest framework is a library with this we can build API's
+
+1 pip install django
+2 django-admin startproject myproject
+3 open vscode and open project folder
+4 pip install djangorestframework
+
+5 open vscode settings, installed_apps - 'rest_framework',
+there is many ways for apis
+text='dndnd'
